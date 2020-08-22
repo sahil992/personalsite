@@ -1,0 +1,61 @@
+  
+{
+	"Title": "Tony Stark | Personal Webpage",
+	"Name": "Tony Stark",
+	"Description": [
+		"Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics.", 
+		"The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby"
+	],
+	"MainImage": "https://i.imgur.com/CdQNXlZ.jpg",
+	"BackgroundURL": "",
+
+	"WorkContent": [
+		"I am currently full time saviour of Earth."
+	],
+	"WorkImage": "https://i.imgur.com/1QRDBCz.png",
+
+	"AboutImage": "https://i.imgur.com/mwtsqBG.jpg",
+	"AboutContent": [
+		"I am a billionaire industrialist and inventor. Former CEO of Stark Industries, a conglomerate originally started by my father, Howard Stark.",
+		"I am still human, with the exception of an Arc Reactor in my chest.",
+		"In order to stop Thanos once and for all, I sacrificed myself to use the Infinity Stones to disintegrate the Mad Titan and his army"
+	],
+
+	"InternshipsStartLine": "Previously, I have worked with :",
+	"InternShips": [{
+			"name": "Avengers",
+			"link": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
+		},
+		{
+			"name": "S.H.I.E.L.D.",
+			"link": "https://en.wikipedia.org/wiki/S.H.I.E.L.D."
+		},
+		{
+			"name": "Marvel",
+			"link": "www.marvel.com"
+		}
+	],
+	"ProjectsStartLine": "Some of my hobby bots are  :",
+	"Projects": [{
+			"name": "JARVIS",
+			"link": "https://marvel-movies.fandom.com/wiki/Just_A_Rather_Very_Intelligent_System"
+		},
+		{
+			"name": "FRIDAY",
+			"link": "https://marvelcinematicuniverse.fandom.com/wiki/F.R.I.D.A.Y."
+		}
+	],
+
+	"CVStartLine": "I am always open to collaborations involving saving the world. Feel free to reach out if you want to work at Stark :)",
+	"CV": "https://marvel-movies.fandom.com/wiki/Anthony_Stark",
+	"Resume": "https://i.imgur.com/FtXmj.jpg",
+
+	"emailid": "mailto:tony@starkindustries.com",
+	"linkedin": "",
+	"wordpress": "https://technoshblog.wordpress.com/",
+	"facebook": "https://www.facebook.com/aditya",
+	"github": "https://github.com/adityaketkar",
+	"instagram": "http://www.adityaketkar.me",
+	"twitter": "https://twitter.com/RobertDowneyJr",
+	"medium": "https://medium.com/@ketkaraditya"
+}
